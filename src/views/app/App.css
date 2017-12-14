@@ -1,0 +1,13 @@
+.base
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.editorContainer
+{
+    background-color: antiquewhite;
+    width: 800px;
+    padding: 24px;
+}

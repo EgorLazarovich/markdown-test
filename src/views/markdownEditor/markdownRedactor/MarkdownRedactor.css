@@ -1,0 +1,11 @@
+.base
+{
+    display: flex;
+}
+
+.textArea
+{
+    flex: 1;
+    border: solid 1px lightgray;
+    min-height: 200px;
+}
